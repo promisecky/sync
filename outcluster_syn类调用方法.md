@@ -10,7 +10,8 @@
 
 **运行示例**
 
-<img src="C:\Users\9613\Desktop\效果图.png" alt="效果图" style="zoom: 67%;" />
+![效果图](https://github.com/promisecky/sync/assets/61641722/eaf1ae35-025e-4589-a4a4-7941316e6af1)
+
 
 **仿真参数**
 
